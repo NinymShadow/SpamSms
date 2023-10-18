@@ -5,8 +5,8 @@ import os,sys,time,requests,json,random
 from requests import post
 from requests import get
 
-#//YG COPY PASTE SC GW SEMOGA CPT MATII
-#//Knp gak dec aj bang? yaa karna dec nya lagi error cuy
+#//just Kiding
+#//Jangan disalah gunakan y
 
 k = 0
 os.system("clear")
